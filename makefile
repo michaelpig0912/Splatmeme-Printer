@@ -23,7 +23,7 @@ LUFA_PATH    = ../LUFA/LUFA
 # Remove the -DZIG_ZAG_PRINTING below to compile with basic printing pattern (printing will take 30 m vs 25 m),
 # when this option is left enable, add also a -DSYNC_TO_30_FPS to save even more time (4 m). The last option is
 # still experimental, and sometimes breaks the pritning pattern
-CC_FLAGS     = -DUSE_LUFA_CONFIG_HEADER -IConfig/ -DZIG_ZAG_PRINTING
+CC_FLAGS     = -DUSE_LUFA_CONFIG_HEADER -IConfig/ 
 LD_FLAGS     =
 
 # Default target
