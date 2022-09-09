@@ -99,3 +99,6 @@ Looks good! Time to get printing.
 ### Sample
 ![http://i.imgur.com/93B1Usb.jpg](http://i.imgur.com/93B1Usb.jpg)
 *image via [/u/Stofers](https://www.reddit.com/user/Stofers)*
+
+### Small update
+The subtraction of Splatoon 2 is to clear the canvas, and the subtraction of Splatoon 3 is to return, so change the place of subtraction to the left mushroom head press.
